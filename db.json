@@ -41,6 +41,138 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Matt Browne",
+      "image": "fern",
+      "price": "215.00",
+      "id": 8
+    },
+    {
+      "name": "fern",
+      "image": "www.fern.com",
+      "price": "214.97",
+      "id": 9
+    },
+    {
+      "name": "fern",
+      "image": "www.fern.com",
+      "price": "214.97",
+      "id": 10
+    },
+    {
+      "name": "fern",
+      "image": "www.fern.com",
+      "price": "214.97",
+      "id": 11
+    },
+    {
+      "name": "fern",
+      "image": "www.fern.com",
+      "price": "214.97",
+      "id": 12
+    },
+    {
+      "name": "fern",
+      "image": "www.fern.com",
+      "price": "214.94",
+      "id": 13
+    },
+    {
+      "name": "Fern",
+      "image": "www.fern.com",
+      "price": "11",
+      "id": 14
+    },
+    {
+      "name": "Fern",
+      "image": "www.fern.com",
+      "price": "11",
+      "id": 15
+    },
+    {
+      "name": "Fern2",
+      "image": "www.fern.com",
+      "price": "11",
+      "id": 16
+    },
+    {
+      "name": "plant3",
+      "image": "fern",
+      "price": "0.07",
+      "id": 17
+    },
+    {
+      "name": "plant4",
+      "image": "www.fern.com",
+      "price": "0.07",
+      "id": 18
+    },
+    {
+      "name": "mbrowne108",
+      "image": "www.fern.com",
+      "price": "0.07",
+      "id": 19
+    },
+    {
+      "name": "Matt",
+      "image": "www.fern.com",
+      "price": "0.01",
+      "id": 20
+    },
+    {
+      "name": "mbrowne108",
+      "image": "fern22",
+      "price": "0.03",
+      "id": 21
+    },
+    {
+      "name": "Creamer",
+      "image": "fern22",
+      "price": "0.01",
+      "id": 22
+    },
+    {
+      "name": "Creamer2",
+      "image": "fern",
+      "price": "0.02",
+      "id": 23
+    },
+    {
+      "name": "Creamer2",
+      "image": "fern",
+      "price": "0.02",
+      "id": 24
+    },
+    {
+      "name": "Creamer2",
+      "image": "fern",
+      "price": "0.02",
+      "id": 25
+    },
+    {
+      "name": "Creamer2",
+      "image": "fern",
+      "price": "0.02",
+      "id": 26
+    },
+    {
+      "name": "Creamer2",
+      "image": "fern",
+      "price": "0.02",
+      "id": 27
+    },
+    {
+      "name": "Creamer3",
+      "image": "fern",
+      "price": "0.02",
+      "id": 28
+    },
+    {
+      "name": "Creamer4",
+      "image": "fern",
+      "price": "0.02",
+      "id": 29
     }
   ]
 }
